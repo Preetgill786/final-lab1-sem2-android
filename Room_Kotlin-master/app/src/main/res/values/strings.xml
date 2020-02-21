@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomData</string>
+    <string name="edit_contact_title">Edit Data</string>
+    <string name="add_contact_title">Add Data</string>
+
+    <string name="error_save_contact">Error with saving data</string>
+    <string name="save_contact">Data saved</string>
+
+    <string name="error_update_contact">Error with updating Data</string>
+    <string name="update_contact">Data updated</string>
+
+    <string name="error_delete_contact">Error with deleting Data</string>
+    <string name="delete_contact">Data deleted</string>
+</resources>
